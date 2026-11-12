@@ -1,0 +1,3 @@
+BIBLIOTECA	Biblioteca Popular
+LIBRO	El Aleph	Jorge Luis Borges
+LIBRO	Rayuela	Julio Cortazar
